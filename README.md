@@ -72,10 +72,10 @@ ErgoLock is the **world's first and only** technology that achieves national sec
 > **$10 TRILLION CONSERVATIVE VALUATION - FLAGSHIP TECHNOLOGY OF QENE DYNAMICS LLC**
 > **THE CROWN JEWEL OF COMPUTATIONAL PHYSICS - CHARTER PENDING NOTARIZATION**
 
-**QENE™ is not just a technology - it is the foundational breakthrough that defines QENE Dynamics LLC and represents the single most significant advancement in computational physics since the invention of the transistor.** As the flagship and namesake technology of QENE Dynamics LLC (unregistered charter pending physical notarization), QENE™ achieves what was previously thought impossible: the complete resolution, reconciliation, validation, and quantification of quantum field theory expressed through classical software architecture.
+**QENE™ is not just a technology - it is the foundational breakthrough that defines QENE Dynamics LLC™ and represents the single most significant advancement in computational physics since the invention of the transistor.** As the flagship and namesake technology of **QENE Dynamics LLC™** (unregistered charter pending physical notarization), QENE™ achieves what was previously thought impossible: the complete resolution, reconciliation, validation, and quantification of quantum field theory expressed through classical software architecture.
 
-##### 🏛️ **QENE Dynamics LLC Corporate Foundation**
-QENE™ serves as the cornerstone technology for QENE Dynamics LLC, representing:
+##### 🏛️ **QENE Dynamics LLC™ Corporate Foundation**
+QENE™ serves as the cornerstone technology for **QENE Dynamics LLC™**, representing:
 - **🏢 Corporate Flagship** - The defining technology that gives the company its name and mission
 - **� Primary Value Driver** - $10 trillion conservative valuation anchoring corporate worth
 - **�🔬 Research Foundation** - All subsidiary technologies built upon QENE™ quantum field theory
@@ -142,7 +142,7 @@ QENE™ is built upon groundbreaking research across multiple disciplines:
 - **Security Analysis** - Unbreakable cryptographic properties proven through mathematical analysis
 
 ##### 💎 **QENE™ as Corporate Crown Jewel**
-As the flagship technology of QENE Dynamics LLC, QENE™ represents:
+As the flagship technology of **QENE Dynamics LLC™**, QENE™ represents:
 - **🏢 Corporate Identity** - The technology that defines the company's mission and vision
 - **💰 Valuation Anchor** - Conservative $10 trillion valuation based on revolutionary capabilities
 - **🔬 Innovation Platform** - Foundation for all derivative technologies and applications
@@ -954,11 +954,11 @@ This project is protected under the **MB3084JSB Universal IP Protection Framewor
 **Provisional licenses for all subsidiary intellectual property utilized within the Ergolock Quantum-Safe Cryptography Platform are available on a case-by-case basis.** All licensing arrangements require execution of comprehensive Non-Disclosure Agreements (NDAs) prior to any technical discussion or access. **All licensed materials are and will be strictly enforced** under the full authority of applicable intellectual property law and the MB3084JSB Universal IP Protection Framework™.
 
 **For licensing inquiries, partnership discussions, and NDA execution, contact:**
-- **📧 QENE Dynamics LLC**: qenedynamics@protonmail.com
+- **📧 QENE Dynamics LLC™**: qenedynamics@protonmail.com
 - **🔐 Confidential Licensing**: All communications subject to strict confidentiality protocols
 
 #### 🏛️ **Provisional Government Verification License**
-**QENE Dynamics LLC** offers a **Limited Provisional Verification License** for the **QENE™ (Quantum Entropy Nullification Engine)** and related Ergolock technologies to **authorized government agencies** for exclusive technical verification and validation purposes:
+**QENE Dynamics LLC™** offers a **Limited Provisional Verification License** for the **QENE™ (Quantum Entropy Nullification Engine)** and related Ergolock technologies to **authorized government agencies** for exclusive technical verification and validation purposes:
 
 **🎯 Authorized Agencies:**
 - **Defense Advanced Research Projects Agency (DARPA)** and research contractors
@@ -1076,7 +1076,19 @@ cargo run --example quantum_demo
 - **🤝 Partnerships**: qenedynamics@protonmail.com
 - **🔬 Research Collaboration**: qenedynamics@protonmail.com
 - **💰 Investment Inquiries**: qenedynamics@protonmail.com
-- **📧 QENE Dynamics LLC**: qenedynamics@protonmail.com
+- **📧 QENE Dynamics LLC™**: qenedynamics@protonmail.com
 
 **The quantum future is here. The question is: Are you ready to be part of it?**
+
+---
+
+## ⚖️ **COPYRIGHT & TRADEMARK NOTICE**
+
+**© 2025 QENE Dynamics LLC™. All rights reserved.**
+
+**QENE Dynamics LLC™** and all related marks, logos, and trade names are protected under the **MB3084JSB Universal IP Protection Framework™** and applicable intellectual property laws. Unauthorized use is strictly prohibited and subject to enhanced statutory damages of $1.5M-$15M per violation.
+
+**Trademarks**: QENE™, QENE Dynamics LLC™, Quantum Entropy Nullification Engine™, BLOBLINE™, JIT-CHAT™, D-BLOCK™, CRYPTOLOOM™, MUTAGENIX™, ENTROPYLOOM™, STEGASOAR™, XPAIND™, ErgoLock™, MB3084JSB Universal IP Protection Framework™, and all related marks are trademarks of QENE Dynamics LLC™.
+
+
 
