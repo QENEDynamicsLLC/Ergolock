@@ -1,0 +1,37 @@
+[package]
+name = "ergolock"
+version = "1.0.0-rc1"
+edition = "2021"
+authors = ["QENE Dynamics LLC <qenedynamics@protonmail.com>"]
+description = "Revolutionary AI-Enhanced Post-Quantum Cryptography Platform"
+homepage = "https://github.com/QENEDynamicsLLC/Ergolock"
+repository = "https://github.com/QENEDynamicsLLC/Ergolock"
+license-file = "LICENSE.md"
+keywords = ["cryptography", "post-quantum", "security", "quantum-safe", "encryption"]
+categories = ["cryptography", "security", "government", "enterprise"]
+
+[dependencies]
+# Demonstration dependencies only - core proprietary components removed
+tokio = { version = "1.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+clap = { version = "4.0", features = ["derive"] }
+
+[features]
+default = ["demonstration"]
+demonstration = []
+enterprise = [] # Requires commercial license
+government = [] # Requires verification license
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+
+[[bin]]
+name = "ergolock-demo"
+path = "src/main.rs"
+
+[lib]
+name = "ergolock"
+path = "src/lib.rs"
